@@ -80,7 +80,8 @@ Pillar 3: Cẩm nang toàn tập: Hướng dẫn chăm sóc, làm sạch và b�
 
 ## 4. Ảnh minh họa
 
-![Ảnh Sử dụng FATRANK kiểm tra keyword](image.png)
+<img width="507" height="501" alt="image" src="https://github.com/user-attachments/assets/0be18fea-710f-48c8-9f77-3901effbacb0" />
+
 
 ---
 
