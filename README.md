@@ -1,4 +1,3 @@
-#Bài tập nhóm môn tối ưu hóa bộ máy tìm kiếm
 # FIKAHOME — Phân tích & Tối ưu hóa Bộ máy Tìm kiếm (SEO Content) — Lê Việt Hoàng
 
 > Xây dựng cụm nội dung (content cluster) Pillar 3 — Cẩm nang chăm sóc, làm sạch và bảo dưỡng nội thất tại nhà — cho website nội thất **FIKAHOME**, thực hiện nghiên cứu từ khóa, viết bài chuẩn SEO và kiểm tra thứ hạng cho Cluster 5, 6, 7, 8.
