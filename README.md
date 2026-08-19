@@ -55,22 +55,22 @@ Pillar 3: Cẩm nang toàn tập: Hướng dẫn chăm sóc, làm sạch và b�
 Đường dẫn: fikahome.id.vn/cam-nang-toan-tap-huong-dan-cham-soc-lam-sach-va-bao-duong-noi-that-tai-nha
 
 ├── Cluster 5 — Xử lý vết xước trên chân sắt sơn tĩnh điện của ghế ăn và ghế bar
-│   URL: /xu-ly-vet-xuoc-chan-sat-son-tinh-dien
+│   URL: https://www.fikahome.id.vn/xu-ly-vet-xuoc-chan-sat-son-tinh-dien
 │   Từ khóa chính: "Xử lý vết xước chân sắt tĩnh điện" — KD 10, CPC $0.02, long-tail (8 từ), Informational — Rank #1
 │   Từ khóa phụ: "sơn tĩnh điện", "sơn tĩnh điện bàn ghế", "xước bàn ghế"
 │
 ├── Cluster 6 — Những dung dịch tẩy rửa tuyệt đối tránh xa khi vệ sinh đồ nội thất
-│   URL: /nhung-dung-dich-tay-rua-tuyet-doi-tranh-xa-khi-ve-sinh-noi-that
+│   URL: https://www.fikahome.id.vn/nhung-dung-dich-tay-rua-tuyet-doi-tranh-xa-khi-ve-sinh-noi-that
 │   Từ khóa chính: "Những dung dịch tẩy rửa tuyệt đối nên tránh" — KD 10, CPC $0.02, long-tail (9 từ), Informational — Rank #4
 │   Từ khóa phụ: "lưu ý khi vệ sinh nội thất", "vệ sinh nội thất", "dọn dẹp nhà cửa đón tết"
 │
 ├── Cluster 7 — Giải pháp khử mùi hôi và xử lý sự cố do thú cưng gây ra trên Sofa/Ghế bành
-│   URL: /giai-phap-khu-mui-hoi-va-xu-lu-su-co-do-thu-cung-gay-ra-tren-noi-that
+│   URL: https://www.fikahome.id.vn/giai-phap-khu-mui-hoi-va-xu-lu-su-co-do-thu-cung-gay-ra-tren-noi-that
 │   Từ khóa chính: "Cách xử lý sự cố do thú cưng gây ra trên nội thất" — KD 10, CPC $0.02, long-tail (9 từ), Informational — Rank #1
 │   Từ khóa phụ: "khử mùi ghế sofa", "cách khử mùi ghế sofa", "mèo đái lên sofa"
 │
 └── Cluster 8 — Bảo dưỡng và xử lý triệt để tiếng kêu kẹt kẹt của giường ngủ gỗ
-    URL: /bao-giuong-va-xu-ly-triet-de-tieng-ket-ket-cua-giuong-ngu
+    URL: https://www.fikahome.id.vn/bao-giuong-va-xu-ly-triet-de-tieng-ket-ket-cua-giuong-ngu
     Từ khóa chính: "Cách xử lý hiệu quả và tận gốc tiếng kêu ọt ẹt" — KD 6, CPC $0.02, long-tail (12 từ), Informational — Rank #9
     Từ khóa phụ: "sửa giường gỗ", "có nên sửa giường ngủ không", "sửa giường tại nhà"
 ```
